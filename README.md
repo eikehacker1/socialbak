@@ -9,6 +9,6 @@ Usage of socialbak:
     	URL para baixar
 
 ## Uso:
-``bash
+```bash
 socialbak -l hostshttp.txt
 ```
